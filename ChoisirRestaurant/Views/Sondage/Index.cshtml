@@ -1,0 +1,30 @@
+﻿@model List<ChoisirRestaurant.Models.Resto>
+@{
+    ViewBag.Title = "Index";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Voter un restaurant</title>
+</head>
+
+<body>
+    <h2>Bienvenue sur la page de création des sondages</h2>
+    @using (Html.BeginForm("Vote", "Sondage"))
+    {
+        <table>
+            
+            @foreach (var resto in Model)
+            {
+                <tr> 
+                    <td>@Html.CheckBox(resto.Name, false) </td>
+                    <td>@Html.Label(resto.Name)</td>
+                </tr>
+            }
+        </table>
+        <br/>
+        <input type="submit" value="Valider le vote"/>
+    }
+</body>
+</html>

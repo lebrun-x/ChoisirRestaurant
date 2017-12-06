@@ -1,0 +1,23 @@
+﻿@model ChoisirRestaurant.ViewModels.AccueilViewModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Accueil</title>
+</head>
+
+<body>
+
+    @using (Html.BeginForm("IndexPost", "Accueil", new {id = ViewBag.IdSondage}))
+    {
+        <h2>Bienvenue sur le site de choix de restaurant</h2>
+        <br />
+        <div> Vous pouvez démarrer un sondage : </div>
+
+        <input type="submit" value="Créer un Sondage" />
+
+        @Html.ActionLink("Accéder à la liste des restaurants", "Index", "Restaurant")
+    }
+</body>
+</html>

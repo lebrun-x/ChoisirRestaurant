@@ -1,0 +1,16 @@
+﻿@model ChoisirRestaurant.ViewModels.AccueilViewModel
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend> Connexion </legend>
+        @Html.LabelFor(Model => Model.Login)
+        @Html.TextBox("login", Model.Login)
+
+        <br/>
+
+        @Html.LabelFor(Model => Model.Mdp)
+        @Html.TextBoxFor(Model => Model.Mdp)
+
+        <button type="submit">Se connecter</button>
+    </fieldset>
+}

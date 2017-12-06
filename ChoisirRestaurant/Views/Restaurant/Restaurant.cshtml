@@ -1,0 +1,41 @@
+﻿@model List<ChoisirRestaurant.Models.Resto>
+@{
+    ViewBag.Title = "Restaurant";
+}
+
+<!DOCTYPE html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Liste des restaurants</title>
+    <style type="text/css">
+        table {
+            border-collapse: collapse;
+        }
+
+        td, th {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th>@Html.Label("Nom")</th>
+            <th>@Html.Label("Telephone")</th>
+        </tr>
+            @foreach (var resto in Model)
+            {
+                <tr>
+                    <td>@resto.Name</td>
+                    <td>@resto.Telephone</td>
+                    <td>@Html.ActionLink("Modifier", "ModifierRestaurant", new { id = resto.Id})</td>
+                </tr>
+            }
+    </table>
+    <br/>
+    <div>@Html.ActionLink("Ajouter","AjouterRestaurant")</div>
+
+</body>
+

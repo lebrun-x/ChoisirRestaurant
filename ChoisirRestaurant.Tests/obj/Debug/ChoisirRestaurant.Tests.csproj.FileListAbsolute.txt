@@ -1,0 +1,78 @@
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\obj\Debug\ChoisirRestaurant.Tests.csprojResolveAssemblyReference.cache
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.Tests.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.Tests.pdb
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\EntityFramework.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.pdb
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.dll.config
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\EntityFramework.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\obj\Debug\ChoisirRestaurant.Tests.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\obj\Debug\ChoisirRestaurant.Tests.pdb
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.Tests.dll.config
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lebrunx\Documents\Visual Studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.Tests.dll.config
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.Tests.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.Tests.pdb
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\EntityFramework.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.pdb
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\ChoisirRestaurant.dll.config
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\EntityFramework.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\obj\Debug\ChoisirRestaurant.Tests.csprojResolveAssemblyReference.cache
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\obj\Debug\ChoisirRestaurant.Tests.csproj.CoreCompileInputs.cache
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\obj\Debug\ChoisirRestaurant.Tests.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant.Tests\obj\Debug\ChoisirRestaurant.Tests.pdb

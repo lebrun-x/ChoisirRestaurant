@@ -1,0 +1,103 @@
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\obj\Debug\ChoisirRestaurant.csprojResolveAssemblyReference.cache
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csc.exe
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csc.exe.config
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csc.rsp
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csi.exe
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csi.rsp
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.AppContext.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\vbc.exe
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\vbc.exe.config
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\vbc.rsp
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\VBCSCompiler.exe
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\ChoisirRestaurant.dll.config
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\ChoisirRestaurant.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\ChoisirRestaurant.pdb
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\EntityFramework.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\EntityFramework.SqlServer.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Helpers.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Mvc.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Razor.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.Razor.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\EntityFramework.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\EntityFramework.SqlServer.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Razor.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.Razor.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Helpers.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Mvc.xml
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\obj\Debug\ChoisirRestaurant.dll
+C:\Users\lebrunx\documents\visual studio 2017\Projects\ChoisirRestaurant\ChoisirRestaurant\obj\Debug\ChoisirRestaurant.pdb
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csc.exe
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csc.exe.config
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csc.rsp
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csi.exe
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\csi.rsp
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.AppContext.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\vbc.exe
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\vbc.exe.config
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\vbc.rsp
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\VBCSCompiler.exe
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\ChoisirRestaurant.dll.config
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\ChoisirRestaurant.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\ChoisirRestaurant.pdb
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\EntityFramework.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\EntityFramework.SqlServer.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Helpers.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Mvc.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Razor.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.Deployment.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.Razor.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\EntityFramework.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\EntityFramework.SqlServer.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Razor.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.Deployment.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Webpages.Razor.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Helpers.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\bin\System.Web.Mvc.xml
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\obj\Debug\ChoisirRestaurant.csprojResolveAssemblyReference.cache
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\obj\Debug\ChoisirRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\obj\Debug\ChoisirRestaurant.dll
+C:\Users\50050608\Documents\Project\Perso\Projects\ChoisirRestaurant\ChoisirRestaurant\obj\Debug\ChoisirRestaurant.pdb
